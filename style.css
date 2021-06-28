@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #dddddd;
+}
+.container{
+    width: 100%;
+    height: 1500px;
+}
+.grandfather{
+    width: 1310px;
+    height: 400px;
+    margin-left: 20px;
+    background-color: rgba(43, 226, 104, 0.603);
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 8px;
+}
+.gran1{
+    width: 45%;
+    margin-left: 30px;
+    padding-top: 30px;
+}
+.gran2 img{
+     margin-top: 40px;
+     border-radius: 50%;
+}
+.parents{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.parents1{
+    width: 30%;
+    height: 300px;
+    background-color: rgba(43, 226, 104, 0.603);
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+    
+}
+.parents1 p{
+    margin: 0  15px 0 15px;
+}
+.parents1 {
+    text-align: center;
+}
+.parents2{
+    width: 30%;
+    height: 300px;
+    background-color: rgba(43, 226, 104, 0.603);
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+}
+.parents2 p{
+    margin: 0  15px 0 15px;
+}
+.parents3{
+    width: 30%;
+    height: 300px;
+    background-color: rgba(43, 226, 104, 0.603);
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
+}
+.parents3 p{
+    margin: 0  15px 0 15px;
+}
+.child{
+    width: 1220px;
+    height: 500px;
+    background-color: rgba(43, 226, 104, 0.603);
+    box-shadow: 10px 10px 40px gray;
+    margin: 20px 60px ;
+    border-radius: 8px;
+}
+.child1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.child1-in1 img{
+    width: 205px;
+    height: 205px;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 30px;
+    border-radius: 50%;
+
+}
+.child1-in1 figcaption{
+    margin-left: 48px;
+}
+.child1-in1 p{
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
+.child1-in2 img{
+    width: 205px;
+    height: 205px;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 30px;
+    border-radius: 50%;
+
+}
+.child1-in2 figcaption{
+    margin-left: 48px;
+}
+.child1-in2 p{
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
+.child1-in3 img{
+    width: 205px;
+    height: 205px;
+    box-shadow: 10px 10px 40px gray;
+    margin-top: 30px;
+    border-radius: 50%;
+
+}
+.child1-in3 figcaption{
+    margin-left: 48px;
+}
+.child1-in3 p{
+    width: 200px;
+    height: auto;
+    text-align: center;
+}
